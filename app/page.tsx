@@ -60,16 +60,22 @@ export default function Home() {
   ];
 
   const skills = [
-    "PHP",
+    "Python",
+    "Next.js",
+    "React",
+    "TypeScript",
     "JavaScript",
     "Node.js",
+    "PHP",
     "MySQL",
     "MongoDB",
-    "HTML/CSS",
+    "REST APIs",
+    "Tailwind CSS",
     "Git/GitHub",
-    "APIs",
     "Linux/Windows Server",
+    "Docker",
   ];
+
 
   return (
     <main className="relative min-h-screen bg-black text-zinc-100">
